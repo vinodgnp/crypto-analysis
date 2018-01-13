@@ -17,6 +17,7 @@
  - Cardano
  - EoS
  - Stellar
+ - Digibyte
  
 
 # Blockchain fast networks
