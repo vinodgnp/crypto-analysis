@@ -35,4 +35,4 @@
 - OmiseGO
 - TEN X PAY
 - MONOCO
-
+- Lunyr
